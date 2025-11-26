@@ -48,7 +48,7 @@ func main() {
 	default:
 		fmt.Println("Invalid operator")
 	}
-
+	fmt.Println()
 	// n1, op, n2 := number1, operator, number2
 	// fmt.Println(n1, op, n2)
 }
